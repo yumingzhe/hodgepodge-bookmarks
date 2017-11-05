@@ -13,11 +13,11 @@
 7. [Mystic Paste](http://mysticpaste.com/new)
 8. [pastebin.geany.org](http://pastebin.geany.org/)
 9. [hastebin](pastebin.geany.org) or [hastebin.com](http://hastebin.com/)
-10.[pastebin.ca](http://pastebin.ca/)
-11.[pasteall](http://www.pasteall.org/)
-12.[vpaste](http://vpaste.net/) - Vim based pastebin
-13.[dpaste.com](http://dpaste.com/)
-14.[ZeroBin](https://pastebin.aquilenet.fr/) a minimalist, opensource online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES. More information on the project page. ▶ Note: This is a test service: Data may be deleted anytime. Kittens will die if you abuse this service. 
-15.[LodgeIt](https://paste.lugons.org/)
-16.[bpaste.net](https://bpaste.net/)
-17.[pastie.org](pastie.org)
+10. [pastebin.ca](http://pastebin.ca/)
+11. [pasteall](http://www.pasteall.org/)
+12. [vpaste](http://vpaste.net/) - Vim based pastebin
+13. [dpaste.com](http://dpaste.com/)
+14. [ZeroBin](https://pastebin.aquilenet.fr/) a minimalist, opensource online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES. More information on the project page. ▶ Note: This is a test service: Data may be deleted anytime. Kittens will die if you abuse this service.
+15. [LodgeIt](https://paste.lugons.org/)
+16. [bpaste.net](https://bpaste.net/)
+17. [pastie.org](pastie.org)
