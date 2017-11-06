@@ -25,3 +25,7 @@
 ### 2. Java
 1. [importnew](http://www.importnew.com/)
 2. [thoughts-on-java.](http://www.thoughts-on-java.org/)
+
+### 3. Math
+1. [Paul's Online Math Notes](http://tutorial.math.lamar.edu/)
+2. [Calculus Learning Guide](https://betterexplained.com/guides/calculus/)
