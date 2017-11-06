@@ -21,3 +21,7 @@
 15. [LodgeIt](https://paste.lugons.org/)
 16. [bpaste.net](https://bpaste.net/)
 17. [pastie.org](pastie.org)
+
+### 2. Java
+1. [importnew](http://www.importnew.com/)
+2. [thoughts-on-java.](http://www.thoughts-on-java.org/)
