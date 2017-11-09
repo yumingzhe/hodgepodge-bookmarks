@@ -29,3 +29,10 @@
 ### 3. Math
 1. [Paul's Online Math Notes](http://tutorial.math.lamar.edu/)
 2. [Calculus Learning Guide](https://betterexplained.com/guides/calculus/)
+
+### 4. OJ
+1. [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
+2. [CodeWar](https://www.codewars.com/)
+3. [CodeEval](https://www.codeeval.com/)
+4. [PEG](http://wcipeg.com/main)
+5. [Project Euler](https://projecteuler.net/)
