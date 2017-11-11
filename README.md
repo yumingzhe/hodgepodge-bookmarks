@@ -41,3 +41,8 @@
 8. [CodeGolf](https://codegolf.stackexchange.com/)
 9. [CodingBat](http://codingbat.com/java)
 10. [CTFTime](https://ctftime.org/)
+11. [LeetCode](https://leetcode.com/)
+12. [SPOJ](http://www.spoj.com/)
+13. [dailyProgrammer](https://www.reddit.com/r/dailyprogrammer/)
+14. [programmingPraxis](https://programmingpraxis.com/)
+15. [UVA](https://uva.onlinejudge.org/)
