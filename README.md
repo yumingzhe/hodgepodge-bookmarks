@@ -46,3 +46,7 @@
 13. [dailyProgrammer](https://www.reddit.com/r/dailyprogrammer/)
 14. [programmingPraxis](https://programmingpraxis.com/)
 15. [UVA](https://uva.onlinejudge.org/)
+
+### 5. Web
+1. [MDN](https://developer.mozilla.org/en-US/)
+2. [Google Developer](https://developers.google.com)
