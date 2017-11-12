@@ -50,3 +50,7 @@
 ### 5. Web
 1. [MDN](https://developer.mozilla.org/en-US/)
 2. [Google Developer](https://developers.google.com)
+
+### 6. ImagePaste
+1. [imagebam](http://www.imagebam.com/)
+2. [imagecurl](http://imagecurl.org/)
