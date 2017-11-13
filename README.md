@@ -54,3 +54,7 @@
 ### 6. ImagePaste
 1. [imagebam](http://www.imagebam.com/)
 2. [imagecurl](http://imagecurl.org/)
+
+### 7. Linux
+1. [linux command](linux-commands-examples.com)
+2. [tty demystified](http://www.linusakesson.net/programming/tty/)
