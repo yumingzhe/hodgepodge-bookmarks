@@ -60,3 +60,7 @@
 2. [tty demystified](http://www.linusakesson.net/programming/tty/)
 3. [Tecmint](https://www.tecmint.com/)
 
+### 8. Papers
+1. [arXiv](https://arxiv.org/)
+2. [PsyArXiv](https://psyarxiv.com/)
+
