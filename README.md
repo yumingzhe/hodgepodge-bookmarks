@@ -54,6 +54,8 @@
 ### 6. ImagePaste
 1. [imagebam](http://www.imagebam.com/)
 2. [imagecurl](http://imagecurl.org/)
+3. [postimage](http://postimages.org/)
+4. [4chan](http://www.4chan.org/)
 
 ### 7. Linux
 1. [linux command](linux-commands-examples.com)
