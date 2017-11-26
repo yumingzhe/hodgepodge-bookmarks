@@ -61,6 +61,7 @@
 1. [linux command](linux-commands-examples.com)
 2. [tty demystified](http://www.linusakesson.net/programming/tty/)
 3. [Tecmint](https://www.tecmint.com/)
+4. [tldr](https://github.com/tldr-pages/tldr)
 
 ### 8. Papers
 1. [arXiv](https://arxiv.org/)
