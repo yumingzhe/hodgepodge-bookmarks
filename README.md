@@ -67,3 +67,5 @@
 1. [arXiv](https://arxiv.org/)
 2. [PsyArXiv](https://psyarxiv.com/)
 
+### 9. Course
+1. [Stanfor Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
